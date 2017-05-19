@@ -2,7 +2,7 @@ https://bitbucket.org/pauloh/pyevtk/get/tip.tar.gz
 ipyparallel==6.0.2
 ipython>=3.0
 matplotlib==2.0.2
-mpi4py
+mpi4py==2.0.0
 pyamg
 pyopengl
 pyside ; python_version == '2.7'
