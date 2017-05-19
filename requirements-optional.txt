@@ -3,7 +3,7 @@ ipyparallel==6.0.2
 ipython>=3.0
 matplotlib==2.0.2
 mpi4py==2.0.0
-pyamg
+pyamg==3.2.1
 pyopengl
 pyside ; python_version == '2.7'
 https://pymor.github.io/wheels/PySide-1.2.2-cp34-cp34m-linux_x86_64.whl ; python_version == '3.4'
