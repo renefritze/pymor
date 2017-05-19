@@ -1,4 +1,4 @@
 pytest-cov==2.5.1
 check-manifest==0.35
 python-coveralls==2.9.1
-pytest-travis-fold
+pytest-travis-fold==1.2.0
