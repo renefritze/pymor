@@ -2,6 +2,6 @@
 # We need a more recent version of Sphinx for being able to provide
 # our own docutils.conf.
 sphinx>=1.5
-cython
+cython==0.25.2
 numpy
 
