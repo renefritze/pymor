@@ -1,6 +1,6 @@
 Sphinx>=1.4.0
 cython>=0.20.1
-docopt
+docopt==0.6.2
 numpy>=1.8.1
 pytest-runner>=2.9
 scipy>=0.13.3
