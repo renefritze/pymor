@@ -17,7 +17,7 @@ ipywidgets
 jupyter_contrib_nbextensions
 jupyter_sphinx
 matplotlib
-meshio==4.2.0
+meshio==4.3.8
 mpi4py
 nbresuse
 numpy>=1.15.4;python_version == "3.7"
