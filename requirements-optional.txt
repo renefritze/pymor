@@ -3,7 +3,7 @@
 -r requirements-ci.txt
 PySide2!=5.15.2,!=5.15.2.*,!=5.11.*
 Qt.py>=1.2.4
-bash_kernel
+bash_kernel==0.7.2
 cython>=0.28
 diskcache
 gmsh
