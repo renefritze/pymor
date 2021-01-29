@@ -16,7 +16,7 @@ ipython>=5.0
 ipywidgets
 jupyter_contrib_nbextensions
 jupyter_sphinx
-matplotlib
+matplotlib==3.3.4
 meshio==4.2.0
 mpi4py
 nbresuse
