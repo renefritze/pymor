@@ -45,4 +45,4 @@ sphinx>=1.7
 sympy
 torch;python_version<"3.9"
 typer
-wheel
+wheel==0.36.2
