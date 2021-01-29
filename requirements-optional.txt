@@ -14,7 +14,7 @@ https://www.mpi-magdeburg.mpg.de/mpcsc/software/cmess/1.0.0/pymess-1.0.0-cp39-cp
 ipyparallel>=6.2.5
 ipython>=5.0
 ipywidgets
-jupyter_contrib_nbextensions
+jupyter_contrib_nbextensions==0.5.1
 jupyter_sphinx
 matplotlib
 meshio==4.2.0
