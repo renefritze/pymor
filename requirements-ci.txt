@@ -15,4 +15,4 @@ pytest-xdist
 pytest>=4.4
 readme_renderer[md]
 rstcheck
-twine
+twine==3.3.0
